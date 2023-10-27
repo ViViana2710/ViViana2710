@@ -5,7 +5,7 @@
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
-Soy **'Viviana Suquilanda'** estudiante de la carrera de Computación 💻 en la *Universidad Nacional de Loja*
+Soy 😊***Viviana Suquilanda*** estudiante de la carrera de Computación 💻 en la *Universidad Nacional de Loja*
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 🐍 I’m looking to collaborate on **Python** projects.
