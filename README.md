@@ -18,3 +18,12 @@ Soy 😊***Viviana Suquilanda*** estudiante de la carrera de Computación 💻 e
 #
 ## Redes Social 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viviana.spi?igshid=OGQ5ZDc2ODk2ZA==)
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode,ps&perline=12" />
+  </a>
+</p>
+<br>
