@@ -16,5 +16,5 @@ Soy 😊***Viviana Suquilanda*** estudiante de la carrera de Computación 💻 e
 ---
 <!-- to draw horizontal line -->
 #
-## Red Social 
+## Redes Social 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viviana.spi?igshid=OGQ5ZDc2ODk2ZA==)
