@@ -23,7 +23,7 @@ Soy 😊***Viviana Suquilanda*** estudiante de la carrera de Computación 💻 e
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,vscode&perline=12" />
   </a>
 </p>
 <br>
