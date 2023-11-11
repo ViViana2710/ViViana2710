@@ -9,7 +9,7 @@
 Soy 😊***Viviana Suquilanda*** estudiante de la carrera de Computación 💻 en la 💛💚❤️*Universidad Nacional de Loja*. Mi objetivo ahora es, aprender y crecer en esta área🚶.
 
 * 👀 Conozco sobre el lenguale C/C++
-* 💬 Estoy aprendiendo el leguaje de JAVA
+* 💬 Estoy aprendiendo el lenguaje de JAVA
 
 
 <!-- to print thick horizontal line -->
